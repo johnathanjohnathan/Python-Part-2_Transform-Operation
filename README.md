@@ -153,7 +153,8 @@ You can define as many exception blocks as you want, e.g. if you want to execute
 In some situations, you might want to run a certain block of code if the code block inside try ran without any errors. For these cases, you can use the optional else keyword with the try statement.
 ### Finally
 The try statement in Python can have an optional finally clause. The finally block, if specified, will be executed regardless if the try block raises an error or not.
-
+## Input ad Output Operations
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/File%20Handling.png"/>
 
 
 
